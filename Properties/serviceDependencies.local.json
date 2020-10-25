@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/nguyenphamsqlserver/databases/nguyenphamlab4",
+      "type": "mssql.azure",
+      "connectionId": "Server=tcp:nguyenphamsqlserver.database.windows.net,1433;InitialCatalog=nguyenphamlab4;PersistSecurityInfo=False;UserID=nguyenphamadmin;Password=NGuyen1999;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;ConnectionTimeout=30;",
+      "secretStore": null
+    }
+  }
+}

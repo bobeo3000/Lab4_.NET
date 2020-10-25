@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Server=tcp:nguyenphamsqlserver.database.windows.net,1433;InitialCatalog=nguyenphamlab4;PersistSecurityInfo=False;UserID=nguyenphamadmin;Password=NGuyen1999;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;ConnectionTimeout=30;"
+    }
+  }
+}
